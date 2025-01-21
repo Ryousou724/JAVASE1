@@ -1,4 +1,4 @@
-package com.ryousou;
+package com.liangshuang;
 
 import java.util.Random;
 import java.util.Scanner;

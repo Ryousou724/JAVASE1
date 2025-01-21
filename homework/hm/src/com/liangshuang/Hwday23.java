@@ -1,4 +1,4 @@
-package com.ryousou;
+package com.liangshuang;
 
 public class Hwday23 {
     public static void main(String[] args) {
