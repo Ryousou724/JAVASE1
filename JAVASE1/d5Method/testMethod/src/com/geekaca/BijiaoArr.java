@@ -10,10 +10,10 @@ public class BijiaoArr {
         System.out.println(compare(arr1, arr2));
     }
     public static boolean compare(int[] arr1, int[] arr2) {
-        if (arr1.length != arr2.length) {
+        if (arr1 == null || arr2 == null) {
             return false;
         }
-        if (arr1 == null || arr2 == null) {
+        if (arr1.length != arr2.length) {
             return false;
         }
         for (int i = 0; i < arr1.length; i++) {
